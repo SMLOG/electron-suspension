@@ -3,8 +3,8 @@
 
 ## 效果预览图
 ![Image text](https://github.com/lihaotian0607/electron-suspension/blob/master/screenshot/1.gif?raw=true)
-![Image text](https://github.com/lihaotian0607/electron-suspension/blob/master/screenshot/2.pngf?raw=true)
-![Image text](https://github.com/lihaotian0607/electron-suspension/blob/master/screenshot/3.pngf?raw=true)
+![Image text](https://github.com/lihaotian0607/electron-suspension/blob/master/screenshot/2.png?raw=true)
+![Image text](https://github.com/lihaotian0607/electron-suspension/blob/master/screenshot/3.png?raw=true)
 
 ## 联系我们
 Email: haotian0607@gmail.com
